@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name": "Murilo",
+        "picture": "www.photoapi.com.br",
+        "age": 60,
+        "email": "murilo123@hotmail.com",
+        "about": "Sobre o Murilo",
+        "is_active": true
+    },
+    {
+        "id": 2,
+        "name": "Maria",
+        "picture": "www.photoapi.com.br",
+        "age": 60,
+        "email": "maria123@hotmail.com",
+        "about": "Sobre a Maria",
+        "is_active": true
+    }
+
+]
